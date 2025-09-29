@@ -37,7 +37,7 @@ yarn install
 3. Configure Firebase:
 
    - Create a Firebase project in the Firebase Console
-   - Add your Firebase configuration in `src/firebase/config.js`
+   - Add your Firebase configuration in `constants/firebase.js`
    - Enable Email/Password authentication in Firebase Console
 
 4. Start the application:
