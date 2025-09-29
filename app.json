@@ -1,8 +1,4 @@
 {
-  "author": "Erick Mondragon",
-  "description": "A React Native app for user authentication with Firebase",
-  "keywords": ["react-native", "firebase", "authentication"],
-  "version": "1.0.0",
   "expo": {
     "name": "react-native-login-firebase",
     "slug": "react-native-login-firebase",
